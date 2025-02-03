@@ -12,7 +12,7 @@ jobs:
       - name: Start Node server
         run: |
           npm install
-          node server.js &
+          node index.js &
           sleep 5 # Attendre que le serveur démarre
 
       - name: Install Pa11y
