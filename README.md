@@ -1,5 +1,12 @@
 # accessibility-demonstration
 
+## Démarrer le projet
+
+```sh
+npm i
+npm run start
+```
+
 Trouvez les erreurs d'accessibilité dissimulées dans la page web.
 
 Quelques ressources :
